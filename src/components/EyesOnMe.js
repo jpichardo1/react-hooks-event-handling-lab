@@ -9,7 +9,7 @@ function handleFocus(event){
   }  
 
 return (
-    <button onFocus={handleFocus} onBlur={handleBlur}>Eyes on meq</button>
+    <button onFocus={handleFocus} onBlur={handleBlur}>Eyes on me</button>
 )
 
 }
